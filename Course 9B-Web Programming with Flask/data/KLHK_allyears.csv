@@ -1,0 +1,790 @@
+Tahun,Provinsi,Kabupaten/Kota,Timbulan Sampah Harian(ton),Timbulan Sampah Tahunan(ton)
+2021,Aceh,Kab. Aceh Selatan,94.59,34527.1
+2021,Aceh,Kab. Gayo Lues,40.43,14757.24
+2021,Aceh,Kota Banda Aceh,248.67,90765.86
+2021,Aceh,Kota Sabang,16.83,6141.64
+2021,Aceh,Kota Langsa,92.83,33883.32
+2021,Aceh,Kota Subulussalam,45.29,16529.21
+2021,Sumatera Utara,Kab. Tapanuli Tengah,182.59,66644.8
+2021,Sumatera Utara,Kab. Tapanuli Utara,128.22,46799.13
+2021,Sumatera Utara,Kab. Langkat,519.69,189685.76
+2021,Sumatera Utara,Kab. Karo,226.8,82781.59
+2021,Sumatera Utara,Kab. Deli Serdang,1118.16,408129.86
+2021,Sumatera Utara,Kab. Simalungun,519.06,189456.9
+2021,Sumatera Utara,Kab. Asahan,466.58,170300.09
+2021,Sumatera Utara,Kab. Toba,85.4,31170.85
+2021,Sumatera Utara,Kota Medan,1767.16,645012.56
+2021,Sumatera Utara,Kota Pematang Siantar,233.02,85052
+2021,Sumatera Utara,Kota Tebing Tinggi,123.5,45077.61
+2021,Sumatera Barat,Kab. Pesisir Selatan,151.33,55233.77
+2021,Sumatera Barat,Kab. Tanah Datar,128.24,46806.83
+2021,Sumatera Barat,Kab. Agam,214.83,78412.95
+2021,Sumatera Barat,Kab. Lima Puluh Kota,154.23,56295.41
+2021,Sumatera Barat,Kab. Pasaman,121.24,44253.04
+2021,Sumatera Barat,Kab. Dharmasraya,102.5,37411.62
+2021,Sumatera Barat,Kab. Solok Selatan,73.94,26988.1
+2021,Sumatera Barat,Kota Solok,53.87,19663.02
+2021,Sumatera Barat,Kota Sawahlunto,18.75,6843.52
+2021,Sumatera Barat,Kota Padang Panjang,48,17519.42
+2021,Sumatera Barat,Kota Payakumbuh,98.8,36063.06
+2021,Riau,Kab. Indragiri Hilir,460.62,168125.39
+2021,Riau,Kab. Siak,191.07,69739.82
+2021,Riau,Kota Pekanbaru,967.49,353133.89
+2021,Riau,Kota Dumai,161.73,59029.99
+2021,Jambi,Kab. Merangin,198.75,72545.03
+2021,Jambi,Kab. Bungo,155.4,56722.46
+2021,Jambi,Kota Jambi,433.17,158106.98
+2021,Sumatera Selatan,Kab. Muara Enim,232.42,84833.74
+2021,Sumatera Selatan,Kab. Lahat,307.84,112361.75
+2021,Sumatera Selatan,Kab. Musi Banyuasin,248.88,90842.08
+2021,Sumatera Selatan,Kab. Ogan Komering Ulu Timur,280.08,102228.32
+2021,Sumatera Selatan,Kota Palembang,1180.25,430791.65
+2021,Sumatera Selatan,Kota Prabumulih,97.06,35426.54
+2021,Bengkulu,Kab. Seluma,106.76,38966.12
+2021,Lampung,Kab. Tanggamus,245.98,89783.28
+2021,Lampung,Kab. Way Kanan,191.88,70036.49
+2021,Lampung,Kab. Pringsewu,162.73,59396.16
+2021,Lampung,Kota Bandar Lampung,770.22,281129.15
+2021,Kepulauan Bangka Belitung,Kab. Bangka,130.51,47634.69
+2021,Kepulauan Bangka Belitung,Kab. Belitung,72.69,26533.31
+2021,Kepulauan Bangka Belitung,Kab. Bangka Selatan,80.13,29247.45
+2021,Kepulauan Bangka Belitung,Kab. Bangka Tengah,81.17,29627.05
+2021,Kepulauan Bangka Belitung,Kota Pangkal Pinang,160,58399.38
+2021,Kepulauan Riau,Kab. Bintan,55.69,20326.42
+2021,Kepulauan Riau,Kab. Karimun,181.62,66289.99
+2021,Kepulauan Riau,Kota Tanjung Pinang,151.69,55366.32
+2021,DKI Jakarta,Kab. Adm. Kep. Seribu,17.62,6429.48
+2021,DKI Jakarta,Kota Adm. Jakarta Pusat,847.39,309298.18
+2021,DKI Jakarta,Kota Adm. Jakarta Utara,1354.67,494454.86
+2021,DKI Jakarta,Kota Adm. Jakarta Selatan,1937.54,707201.35
+2021,DKI Jakarta,Kota Adm. Jakarta Timur,2293.04,836961.37
+2021,Jawa Barat,Kab. Bandung,1268.33,462939.17
+2021,Jawa Barat,Kab. Garut,1120.06,408821.79
+2021,Jawa Barat,Kab. Ciamis,572.1,208818.25
+2021,Jawa Barat,Kab. Cirebon,1237.12,451549.6
+2021,Jawa Barat,Kab. Sumedang,442.36,161462.89
+2021,Jawa Barat,Kab. Indramayu,1102.62,402455.25
+2021,Jawa Barat,Kota Bogor,673.76,245922.33
+2021,Jawa Barat,Kota Sukabumi,180.26,65795.65
+2021,Jawa Barat,Kota Bandung,1592.55,581280.03
+2021,Jawa Barat,Kota Cirebon,204.47,74631.55
+2021,Jawa Barat,Kota Bekasi,2375.99,867236.75
+2021,Jawa Barat,Kota Depok,1314.14,479660.75
+2021,Jawa Barat,Kota Cimahi,274.77,100289.42
+2021,Jawa Tengah,Kab. Cilacap,943.59,344409.04
+2021,Jawa Tengah,Kab. Banyumas,535.23,195357.75
+2021,Jawa Tengah,Kab. Purbalingga,505.71,184585.06
+2021,Jawa Tengah,Kab. Purworejo,288.82,105420.18
+2021,Jawa Tengah,Kab. Wonosobo,363,132496.46
+2021,Jawa Tengah,Kab. Magelang,681.65,248800.43
+2021,Jawa Tengah,Kab. Boyolali,290.85,106159.34
+2021,Jawa Tengah,Kab. Klaten,590.3,215458.83
+2021,Jawa Tengah,Kab. Sukoharjo,359.45,131200.56
+2021,Jawa Tengah,Kab. Wonogiri,439.37,160369.61
+2021,Jawa Tengah,Kab. Karanganyar,361.84,132071.89
+2021,Jawa Tengah,Kab. Sragen,586.17,213952.27
+2021,Jawa Tengah,Kab. Blora,226.85,82801.58
+2021,Jawa Tengah,Kab. Rembang,245.66,89666.36
+2021,Jawa Tengah,Kab. Pati,662.09,241664.31
+2021,Jawa Tengah,Kab. Jepara,400.08,146028.4
+2021,Jawa Tengah,Kab. Demak,722.37,263666.36
+2021,Jawa Tengah,Kab. Semarang,526.55,192189
+2021,Jawa Tengah,Kab. Temanggung,500.17,182562.96
+2021,Jawa Tengah,Kab. Batang,324.16,118317.38
+2021,Jawa Tengah,Kab. Pekalongan,387.53,141447.87
+2021,Jawa Tengah,Kab. Pemalang,588.6,214837.39
+2021,Jawa Tengah,Kab. Tegal,670.74,244819.49
+2021,Jawa Tengah,Kab. Brebes,983.19,358865.26
+2021,Jawa Tengah,Kota Magelang,80.68,29447.93
+2021,Jawa Tengah,Kota Salatiga,112.24,40969.24
+2021,Jawa Tengah,Kota Semarang,1180.14,430749.75
+2021,Jawa Tengah,Kota Tegal,201.57,73573.52
+2021,D.I. Yogyakarta,Kab. Kulon Progo,177.14,64654.35
+2021,D.I. Yogyakarta,Kab. Sleman,735.57,268481.59
+2021,D.I. Yogyakarta,Kota Yogyakarta,327.4,119501.69
+2021,Jawa Timur,Kab. Pacitan,286.73,104654.83
+2021,Jawa Timur,Kab. Ponorogo,387.78,141540.58
+2021,Jawa Timur,Kab. Trenggalek,293.96,107293.65
+2021,Jawa Timur,Kab. Tulungagung,548.3,200127.68
+2021,Jawa Timur,Kab. Blitar,409.93,149623.83
+2021,Jawa Timur,Kab. Kediri,533.82,194845.76
+2021,Jawa Timur,Kab. Lumajang,501.5,183048.96
+2021,Jawa Timur,Kab. Banyuwangi,1252.87,457297.22
+2021,Jawa Timur,Kab. Situbondo,257.17,93865.59
+2021,Jawa Timur,Kab. Jombang,530.37,193583.44
+2021,Jawa Timur,Kab. Nganjuk,443.87,162013.72
+2021,Jawa Timur,Kab. Magetan,268.32,97938.55
+2021,Jawa Timur,Kab. Ngawi,356.72,130204.03
+2021,Jawa Timur,Kab. Bojonegoro,536.5,195823.81
+2021,Jawa Timur,Kab. Tuban,503.17,183655.24
+2021,Jawa Timur,Kab. Lamongan,221.94,81008.1
+2021,Jawa Timur,Kab. Pamekasan,276.6,100957.25
+2021,Jawa Timur,Kab. Sumenep,367.44,134116.61
+2021,Jawa Timur,Kota Kediri,169.35,61812.13
+2021,Jawa Timur,Kota Blitar,75.19,27442.53
+2021,Jawa Timur,Kota Malang,677.78,247388.97
+2021,Jawa Timur,Kota Probolinggo,96.57,35247.76
+2021,Jawa Timur,Kota Pasuruan,135.2,49349.42
+2021,Jawa Timur,Kota Madiun,119.71,43695.25
+2021,Jawa Timur,Kota Surabaya,1782.51,650614.62
+2021,Jawa Timur,Kota Batu,114.42,41762.47
+2021,Banten,Kab. Serang,1163.84,424801.97
+2021,Banten,Kota Cilegon,217.45,79368.52
+2021,Banten,Kota Tangerang Selatan,799.07,291659.27
+2021,Bali,Kab. Jembrana,162.73,59395.72
+2021,Bali,Kab. Tabanan,230.82,84247.48
+2021,Bali,Kab. Badung,319.81,116731.24
+2021,Bali,Kab. Gianyar,387.23,141337.13
+2021,Bali,Kab. Bangli,110.9,40479.96
+2021,Bali,Kab. Buleleng,339.1,123771.5
+2021,Bali,Kota Denpasar,957.59,349519.44
+2021,Nusa Tenggara Barat,Kab. Lombok Timur,483.44,176454.72
+2021,Nusa Tenggara Barat,Kab. Sumbawa,259.46,94704.18
+2021,Nusa Tenggara Barat,Kota Mataram,263.98,96354.09
+2021,Nusa Tenggara Timur,Kab. Alor,116.53,42533.3
+2021,Nusa Tenggara Timur,Kab. Manggarai Barat,82.18,29995.84
+2021,Nusa Tenggara Timur,Kota Kupang,221.38,80803.34
+2021,Kalimantan Barat,Kab. Sambas,277.38,101244.25
+2021,Kalimantan Barat,Kab. Mempawah,82.24,30015.96
+2021,Kalimantan Barat,Kab. Sanggau,242.41,88479.29
+2021,Kalimantan Barat,Kab. Melawi,83.63,30524.07
+2021,Kalimantan Barat,Kota Pontianak,396.3,144651.25
+2021,Kalimantan Barat,Kota Singkawang,117.53,42899.18
+2021,Kalimantan Tengah,Kab. Kapuas,205.2,74898
+2021,Kalimantan Tengah,Kab. Barito Utara,63.37,23129.61
+2021,Kalimantan Tengah,Kab. Seruyan,81.46,29731.08
+2021,Kalimantan Tengah,Kab. Gunung Mas,101.55,37065.75
+2021,Kalimantan Tengah,Kab. Pulang Pisau,67.25,24546.07
+2021,Kalimantan Tengah,Kab. Barito Timur,46.51,16977.76
+2021,Kalimantan Tengah,Kota Palangkaraya,147.92,53990.25
+2021,Kalimantan Selatan,Kab. Tanah Laut,141.74,51733.64
+2021,Kalimantan Selatan,Kab. Kotabaru,130.25,47540.81
+2021,Kalimantan Selatan,Kab. Banjar,407.66,148795.8
+2021,Kalimantan Selatan,Kab. Barito Kuala,94.96,34660.04
+2021,Kalimantan Selatan,Kab. Tapin,80.49,29379.14
+2021,Kalimantan Selatan,Kab. Hulu Sungai Selatan,96.01,35042.92
+2021,Kalimantan Selatan,Kab. Hulu Sungai Tengah,103.49,37773.27
+2021,Kalimantan Selatan,Kab. Hulu Sungai Utara,96.66,35280.75
+2021,Kalimantan Selatan,Kab. Tabalong,101.32,36982.53
+2021,Kalimantan Selatan,Kab. Tanah Bumbu,164.35,59986.29
+2021,Kalimantan Selatan,Kab. Balangan,56,20440.98
+2021,Kalimantan Selatan,Kota Banjarmasin,506.45,184856.04
+2021,Kalimantan Selatan,Kota Banjarbaru,164.71,60120.18
+2021,Kalimantan Timur,Kab. Paser,115.29,42080.85
+2021,Kalimantan Timur,Kab. Kutai Kartanegara,222.59,81243.53
+2021,Kalimantan Timur,Kab. Kutai Timur,212.22,77461.58
+2021,Kalimantan Timur,Kab. Penajam Paser Utara,92.51,33766.52
+2021,Kalimantan Timur,Kota Balikpapan,497.21,181479.86
+2021,Kalimantan Timur,Kota Samarinda,581.85,212376.71
+2021,Kalimantan Timur,Kota Bontang,103.82,37894.33
+2021,Kalimantan Utara,Kab. Nunukan,41.81,15260.25
+2021,Kalimantan Utara,Kab. Tana Tidung,13.24,4832.89
+2021,Sulawesi Utara,Kab. Kepulauan Sangihe,55.7,20332.25
+2021,Sulawesi Utara,Kab. Minahasa Selatan,94.59,34523.6
+2021,Sulawesi Utara,Kab. Minahasa Tenggara,45.37,16559.47
+2021,Sulawesi Utara,Kab. Bolaang Mongondow Utara,41.56,15167.94
+2021,Sulawesi Utara,Kab. Bolaang Mongondow Selatan,34.9,12736.86
+2021,Sulawesi Utara,Kota Manado,339.89,124059.81
+2021,Sulawesi Utara,Kota Bitung,158.56,57874.58
+2021,Sulawesi Utara,Kota Kotamobagu,86.63,31620.68
+2021,Sulawesi Tengah,Kab. Donggala,121.64,44400.06
+2021,Sulawesi Tengah,Kab. Parigi Moutong,225.59,82341.99
+2021,Sulawesi Tengah,Kab. Sigi,128.79,47008.35
+2021,Sulawesi Tengah,Kab. Banggai Laut,35.44,12933.78
+2021,Sulawesi Tengah,Kota Palu,186.93,68228.9
+2021,Sulawesi Selatan,Kab. Kepulauan Selayar,56.13,20488.47
+2021,Sulawesi Selatan,Kab. Bulukumba,173.94,63488.39
+2021,Sulawesi Selatan,Kab. Bantaeng,80.68,29446.45
+2021,Sulawesi Selatan,Kab. Jeneponto,160.64,58635.06
+2021,Sulawesi Selatan,Kab. Sinjai,108.31,39534.76
+2021,Sulawesi Selatan,Kab. Bone,403.38,147231.88
+2021,Sulawesi Selatan,Kab. Maros,158.77,57950.9
+2021,Sulawesi Selatan,Kab. Pangkajene Kepulauan,138.31,50483.15
+2021,Sulawesi Selatan,Kab. Barru,75.95,27722.04
+2021,Sulawesi Selatan,Kab. Soppeng,95.09,34707.12
+2021,Sulawesi Selatan,Kab. Wajo,151.64,55348.6
+2021,Sulawesi Selatan,Kab. Sidenreng Rappang,128,46718.54
+2021,Sulawesi Selatan,Kab. Pinrang,176.9,64570.25
+2021,Sulawesi Selatan,Kab. Enrekang,113.96,41596.68
+2021,Sulawesi Selatan,Kab. Luwu Timur,120.2,43874.61
+2021,Sulawesi Selatan,Kota Makassar,1023.71,373653.93
+2021,Sulawesi Selatan,Kota Parepare,76.25,27832.35
+2021,Sulawesi Selatan,Kota Palopo,92.34,33704.28
+2021,Sulawesi Tenggara,Kab. Wakatobi,79.19,28902.67
+2021,Sulawesi Tenggara,Kota Kendari,264.5,96542.67
+2021,Gorontalo,Kota Gorontalo,141.21,51541.5
+2021,Sulawesi Barat,Kab. Majene,69.76,25463.42
+2021,Sulawesi Barat,Kab. Mamuju Tengah,62.64,22864.48
+2021,Maluku,Kab. Maluku Tengah,170.32,62165.92
+2021,Maluku,Kab. Buru Selatan,30.95,11296.6
+2021,Maluku,Kota Tual,53.73,19611.92
+2021,Maluku Utara,Kota Tidore Kepulauan,46.12,16834.53
+2021,Papua,Kab. Jayapura,84.24,30746.87
+2021,Papua,Kab. Biak Numfor,58.42,21323.59
+2021,Papua,Kab. Keerom,26.13,9536.28
+2021,Papua,Kota Jayapura,217.8,79496.56
+2021,Papua Barat,Kab. Manokwari,160.02,58405.66
+2021,Papua Selatan,Kab. Asmat,44.65,16298.27
+2021,Papua Tengah,Kab. Nabire,67.65,24693.86
+2021,Papua Pegunungan,Kab. Lanny Jaya,80.78,29483.24
+2021,Papua Barat Daya,Kab. Sorong Selatan,22.38,8167.39
+2021,Papua Barat Daya,Kab. Tambrauw,11.35,4143.33
+2022,Aceh,Kab. Aceh Selatan,96.49,35217.68
+2022,Aceh,Kab. Aceh Tenggara,91.32,33332.97
+2022,Aceh,Kab. Aceh Timur,173.14,63195.95
+2022,Aceh,Kab. Aceh Barat,101.43,37021.59
+2022,Aceh,Kab. Pidie,177.8,64897.73
+2022,Aceh,Kab. Simeulue,44.61,16280.89
+2022,Aceh,Kab. Aceh Singkil,52.77,19261.34
+2022,Aceh,Kab. Aceh Barat Daya,77.67,28348.09
+2022,Aceh,Kab. Gayo Lues,41.06,14986.02
+2022,Aceh,Kab. Aceh Jaya,47.21,17231.29
+2022,Aceh,Kab. Nagan Raya,69.36,25315.38
+2022,Aceh,Kab. Aceh Tamiang,120.72,44062.8
+2022,Aceh,Kab. Bener Meriah,65.99,24084.74
+2022,Aceh,Kab. Pidie Jaya,79.53,29029.44
+2022,Aceh,Kota Banda Aceh,252.21,92055.88
+2022,Aceh,Kota Sabang,17.28,6308.37
+2022,Aceh,Kota Langsa,94.44,34470.24
+2022,Aceh,Kota Subulussalam,37.07,13529.97
+2022,Sumatera Utara,Kab. Tapanuli Tengah,184.65,67397.25
+2022,Sumatera Utara,Kab. Nias,58.28,21272.35
+2022,Sumatera Utara,Kab. Langkat,521.44,190323.78
+2022,Sumatera Utara,Kab. Deli Serdang,1126.61,411211.01
+2022,Sumatera Utara,Kab. Simalungun,510.81,186444.74
+2022,Sumatera Utara,Kab. Asahan,472.78,172564.99
+2022,Sumatera Utara,Kab. Toba,96.05,35059
+2022,Sumatera Utara,Kab. Humbang Hasundutan,59.33,21653.73
+2022,Sumatera Utara,Kota Medan,1722.6,628749.22
+2022,Sumatera Utara,Kota Pematang Siantar,241.43,88121.44
+2022,Sumatera Utara,Kota Tebing Tinggi,124.63,45488.2
+2022,Sumatera Utara,Kota Padangsidimpuan,161.82,59065.98
+2022,Sumatera Barat,Kab. Pesisir Selatan,152.89,55803.17
+2022,Sumatera Barat,Kab. Solok,157.69,57558.6
+2022,Sumatera Barat,Kab. Sijunjung,97.3,35513.89
+2022,Sumatera Barat,Kab. Tanah Datar,128.92,47057.29
+2022,Sumatera Barat,Kab. Padang Pariaman,218.06,79593.54
+2022,Sumatera Barat,Kab. Agam,213.68,77993.64
+2022,Sumatera Barat,Kab. Lima Puluh Kota,153.3,55954.79
+2022,Sumatera Barat,Kab. Pasaman,121.24,44253.04
+2022,Sumatera Barat,Kab. Dharmasraya,103.65,37831.1
+2022,Sumatera Barat,Kab. Solok Selatan,73.94,26988.68
+2022,Sumatera Barat,Kab. Pasaman Barat,175,63876.75
+2022,Sumatera Barat,Kota Padang,643.76,234973.13
+2022,Sumatera Barat,Kota Solok,54.27,19810.19
+2022,Sumatera Barat,Kota Sawahlunto,18.86,6882.56
+2022,Sumatera Barat,Kota Padang Panjang,48.95,17865.14
+2022,Sumatera Barat,Kota Bukittinggi,125.23,45707.54
+2022,Sumatera Barat,Kota Payakumbuh,100.3,36608.81
+2022,Sumatera Barat,Kota Pariaman,38.26,13963.44
+2022,Riau,Kab. Indragiri Hulu,181.3,66173.19
+2022,Riau,Kab. Rokan Hulu,363.33,132613.76
+2022,Riau,Kab. Rokan Hilir,333.1,121580.59
+2022,Riau,Kab. Siak,186.67,68135.72
+2022,Riau,Kab. Kuantan Singingi,139.18,50800.55
+2022,Riau,Kota Pekanbaru,976.72,356503.31
+2022,Riau,Kota Dumai,165.92,60559.34
+2022,Jambi,Kab. Merangin,202.13,73778.36
+2022,Jambi,Kab. Sarolangun,117.44,42865.6
+2022,Jambi,Kab. Bungo,158.51,57857.03
+2022,Jambi,Kota Jambi,437.5,159688.01
+2022,Jambi,Kota Sungai Penuh,50.12,18295.44
+2022,Sumatera Selatan,Kab. Ogan Komering Ulu,152.21,55556.5
+2022,Sumatera Selatan,Kab. Muara Enim,232.61,84901.04
+2022,Sumatera Selatan,Kab. Lahat,269.61,98406.85
+2022,Sumatera Selatan,Kab. Musi Rawas,255.5,93259.27
+2022,Sumatera Selatan,Kab. Musi Banyuasin,257.93,94145.47
+2022,Sumatera Selatan,Kab. Banyuasin,578.73,211235.9
+2022,Sumatera Selatan,Kab. Ogan Komering Ulu Timur,282.14,102981.68
+2022,Sumatera Selatan,Kab. Penukal Abab Lematang Ilir,102.24,37316.32
+2022,Sumatera Selatan,Kota Palembang,1204.97,439815.66
+2022,Sumatera Selatan,Kota Prabumulih,98.41,35918.19
+2022,Bengkulu,Kab. Bengkulu Utara,189.61,69207.72
+2022,Bengkulu,Kab. Seluma,105.25,38417.16
+2022,Bengkulu,Kab. Lebong,80.57,29409.84
+2022,Lampung,Kab. Tanggamus,365.62,133452.35
+2022,Lampung,Kab. Way Kanan,192.02,70086.13
+2022,Lampung,Kab. Pringsewu,162.73,59396.16
+2022,Lampung,Kab. Tulang Bawang Barat,114.49,41787.68
+2022,Lampung,Kota Bandar Lampung,786.46,287057.55
+2022,Lampung,Kota Metro,104.45,38125.71
+2022,Kepulauan Bangka Belitung,Kab. Bangka,133.74,48814.22
+2022,Kepulauan Bangka Belitung,Kab. Belitung,73.6,26864.58
+2022,Kepulauan Bangka Belitung,Kab. Bangka Selatan,82.1,29966.94
+2022,Kepulauan Bangka Belitung,Kab. Bangka Tengah,82.36,30061.11
+2022,Kepulauan Bangka Belitung,Kab. Belitung Timur,50.92,18585.22
+2022,Kepulauan Riau,Kab. Bintan,55.92,20409.89
+2022,Kepulauan Riau,Kab. Karimun,186.32,68008.22
+2022,Kepulauan Riau,Kab. Natuna,34.18,12475.12
+2022,Kepulauan Riau,Kab. Lingga,28.43,10376.55
+2022,Kepulauan Riau,Kab. Kepulauan Anambas,13.2,4818
+2022,Kepulauan Riau,Kota Batam,1132.77,413461.6
+2022,Kepulauan Riau,Kota Tanjung Pinang,155.91,56905.36
+2022,DKI Jakarta,Kab. Adm. Kep. Seribu,17.89,6531.08
+2022,DKI Jakarta,Kota Adm. Jakarta Pusat,850.05,310268.53
+2022,DKI Jakarta,Kota Adm. Jakarta Utara,1368.44,499480.75
+2022,DKI Jakarta,Kota Adm. Jakarta Barat,2023.42,738547.77
+2022,DKI Jakarta,Kota Adm. Jakarta Selatan,1954.25,713300.85
+2022,DKI Jakarta,Kota Adm. Jakarta Timur,2313.02,844252.43
+2022,Jawa Barat,Kab. Bandung,1283.16,468351.94
+2022,Jawa Barat,Kab. Garut,1112.25,405969.55
+2022,Jawa Barat,Kab. Ciamis,574.68,209758.49
+2022,Jawa Barat,Kab. Kuningan,599.4,218782.1
+2022,Jawa Barat,Kab. Sumedang,442.72,161592.02
+2022,Jawa Barat,Kab. Indramayu,1113.65,406481.07
+2022,Jawa Barat,Kab. Karawang,1003.94,366436.49
+2022,Jawa Barat,Kab. Bekasi,2250.35,821379.1
+2022,Jawa Barat,Kota Bogor,744.46,271727.57
+2022,Jawa Barat,Kota Sukabumi,180.35,65828.41
+2022,Jawa Barat,Kota Bandung,1594.18,581876.52
+2022,Jawa Barat,Kota Bekasi,1830.63,668179
+2022,Jawa Barat,Kota Cimahi,275.46,100542.32
+2022,Jawa Barat,Kota Tasikmalaya,319.11,116475.95
+2022,Jawa Barat,Kota Banjar,85.67,31267.8
+2022,Jawa Tengah,Kab. Cilacap,950.84,347055.78
+2022,Jawa Tengah,Kab. Banyumas,536.89,195964.49
+2022,Jawa Tengah,Kab. Purbalingga,509.92,186120.8
+2022,Jawa Tengah,Kab. Kebumen,463.05,169013.4
+2022,Jawa Tengah,Kab. Purworejo,289.57,105694.22
+2022,Jawa Tengah,Kab. Wonosobo,366.25,133682.56
+2022,Jawa Tengah,Kab. Boyolali,292.55,106781.29
+2022,Jawa Tengah,Kab. Klaten,643.02,234703.44
+2022,Jawa Tengah,Kab. Sukoharjo,361.92,132101.09
+2022,Jawa Tengah,Kab. Wonogiri,347.72,126917.85
+2022,Jawa Tengah,Kab. Karanganyar,375.52,137065.97
+2022,Jawa Tengah,Kab. Sragen,590.18,215417.38
+2022,Jawa Tengah,Kab. Grobogan,849.37,310021.75
+2022,Jawa Tengah,Kab. Blora,383.05,139811.75
+2022,Jawa Tengah,Kab. Rembang,252.13,92026
+2022,Jawa Tengah,Kab. Pati,674.59,246223.89
+2022,Jawa Tengah,Kab. Kudus,448.16,163578.95
+2022,Jawa Tengah,Kab. Jepara,412.37,150516.42
+2022,Jawa Tengah,Kab. Demak,722.37,263666.36
+2022,Jawa Tengah,Kab. Semarang,529.92,193421.53
+2022,Jawa Tengah,Kab. Temanggung,400.14,146050.37
+2022,Jawa Tengah,Kab. Kendal,410.01,149652.92
+2022,Jawa Tengah,Kab. Batang,567.28,207055.41
+2022,Jawa Tengah,Kab. Pekalongan,390.6,142569.58
+2022,Jawa Tengah,Kab. Pemalang,593.68,216694.51
+2022,Jawa Tengah,Kab. Tegal,839.63,306466.23
+2022,Jawa Tengah,Kab. Brebes,1005.31,366937.6
+2022,Jawa Tengah,Kota Magelang,80.51,29384.62
+2022,Jawa Tengah,Kota Surakarta,376.29,137345.45
+2022,Jawa Tengah,Kota Salatiga,114.16,41668.28
+2022,Jawa Tengah,Kota Semarang,1181.06,431085.22
+2022,Jawa Tengah,Kota Tegal,217.44,79365.97
+2022,D.I. Yogyakarta,Kab. Kulon Progo,177.34,64730.71
+2022,D.I. Yogyakarta,Kab. Gunungkidul,377.73,137871.89
+2022,D.I. Yogyakarta,Kab. Sleman,596.73,217807.27
+2022,D.I. Yogyakarta,Kota Yogyakarta,303.13,110642.6
+2022,Jawa Timur,Kab. Pacitan,287.67,104999.96
+2022,Jawa Timur,Kab. Ponorogo,382.34,139552.64
+2022,Jawa Timur,Kab. Trenggalek,305.48,111498.74
+2022,Jawa Timur,Kab. Tulungagung,553.83,202148.86
+2022,Jawa Timur,Kab. Blitar,409.06,149305.6
+2022,Jawa Timur,Kab. Kediri,657.76,240082.4
+2022,Jawa Timur,Kab. Malang,960.59,350614.09
+2022,Jawa Timur,Kab. Lumajang,524.51,191446.12
+2022,Jawa Timur,Kab. Jember,1014.69,370362.43
+2022,Jawa Timur,Kab. Banyuwangi,813.91,297078.45
+2022,Jawa Timur,Kab. Situbondo,257.24,93891.73
+2022,Jawa Timur,Kab. Probolinggo,462.36,168760.52
+2022,Jawa Timur,Kab. Mojokerto,461.16,168322.61
+2022,Jawa Timur,Kab. Jombang,530.37,193583.44
+2022,Jawa Timur,Kab. Nganjuk,444.13,162107.74
+2022,Jawa Timur,Kab. Madiun,300.06,109520.88
+2022,Jawa Timur,Kab. Magetan,275.75,100647.87
+2022,Jawa Timur,Kab. Ngawi,358.07,130696.23
+2022,Jawa Timur,Kab. Bojonegoro,376.09,137271.36
+2022,Jawa Timur,Kab. Tuban,505.31,184439.37
+2022,Jawa Timur,Kab. Lamongan,228.06,83240.85
+2022,Jawa Timur,Kab. Gresik,391.33,142835.43
+2022,Jawa Timur,Kab. Bangkalan,415.72,151736.05
+2022,Jawa Timur,Kab. Sampang,464.41,169511.29
+2022,Jawa Timur,Kab. Pamekasan,277.1,101140.55
+2022,Jawa Timur,Kab. Sumenep,362.19,132197.86
+2022,Jawa Timur,Kota Kediri,178.59,65183.7
+2022,Jawa Timur,Kota Blitar,75.98,27732.7
+2022,Jawa Timur,Kota Malang,764.79,279148.37
+2022,Jawa Timur,Kota Probolinggo,97.16,35465.15
+2022,Jawa Timur,Kota Pasuruan,146.02,53297.25
+2022,Jawa Timur,Kota Mojokerto,66.91,24420.33
+2022,Jawa Timur,Kota Madiun,121.15,44219.8
+2022,Jawa Timur,Kota Surabaya,1783.68,651043.42
+2022,Jawa Timur,Kota Batu,135.23,49359.46
+2022,Banten,Kab. Lebak,591.47,215885.24
+2022,Banten,Kab. Tangerang,2305.47,841497.68
+2022,Banten,Kab. Serang,1135.84,414581.97
+2022,Banten,Kota Tangerang,1381.53,504258.12
+2022,Banten,Kota Cilegon,227.86,83169.08
+2022,Banten,Kota Serang,584.83,213464.02
+2022,Banten,Kota Tangerang Selatan,972.63,355009.43
+2022,Bali,Kab. Jembrana,162.94,59472.92
+2022,Bali,Kab. Badung,327.33,119474.58
+2022,Bali,Kab. Gianyar,538.9,196698.5
+2022,Bali,Kab. Klungkung,103.13,37643.55
+2022,Bali,Kab. Bangli,111.88,40836.05
+2022,Bali,Kab. Karangasem,311.54,113711.83
+2022,Bali,Kab. Buleleng,392.56,143283.67
+2022,Bali,Kota Denpasar,866.61,316312.65
+2022,Nusa Tenggara Barat,Kab. Lombok Barat,288.59,105336.08
+2022,Nusa Tenggara Barat,Kab. Lombok Tengah,419.9,153263.5
+2022,Nusa Tenggara Barat,Kab. Lombok Timur,537.56,196209.55
+2022,Nusa Tenggara Barat,Kab. Sumbawa,259.78,94820.43
+2022,Nusa Tenggara Barat,Kab. Bima,276.99,101102.08
+2022,Nusa Tenggara Barat,Kab. Lombok Utara,102.59,37446.08
+2022,Nusa Tenggara Barat,Kota Mataram,264.21,96436.87
+2022,Nusa Tenggara Barat,Kota Bima,82.71,30189.37
+2022,Nusa Tenggara Timur,Kab. Manggarai Barat,84.86,30972.44
+2022,Nusa Tenggara Timur,Kota Kupang,227.93,83192.63
+2022,Kalimantan Barat,Kab. Sambas,318.12,116112
+2022,Kalimantan Barat,Kab. Mempawah,84.03,30669.65
+2022,Kalimantan Barat,Kab. Sanggau,246.14,89841.83
+2022,Kalimantan Barat,Kab. Kapuas Hulu,133.33,48663.81
+2022,Kalimantan Barat,Kota Pontianak,401.54,146560.71
+2022,Kalimantan Barat,Kota Singkawang,93.97,34297.93
+2022,Kalimantan Tengah,Kab. Kotawaringin Barat,136.27,49736.91
+2022,Kalimantan Tengah,Kab. Kapuas,211.61,77235.83
+2022,Kalimantan Tengah,Kab. Barito Selatan,66.96,24439.67
+2022,Kalimantan Tengah,Kab. Barito Utara,61.93,22603.87
+2022,Kalimantan Tengah,Kab. Seruyan,82.19,29999.35
+2022,Kalimantan Tengah,Kab. Gunung Mas,101.53,37058.36
+2022,Kalimantan Tengah,Kab. Pulang Pisau,67.67,24698.82
+2022,Kalimantan Tengah,Kab. Murung Raya,55.73,20339.81
+2022,Kalimantan Tengah,Kab. Barito Timur,46.02,16798.32
+2022,Kalimantan Tengah,Kota Palangkaraya,151.91,55448.06
+2022,Kalimantan Selatan,Kab. Tanah Laut,141.94,51807.37
+2022,Kalimantan Selatan,Kab. Kotabaru,181.22,66143.51
+2022,Kalimantan Selatan,Kab. Banjar,357.57,130512.37
+2022,Kalimantan Selatan,Kab. Barito Kuala,96.38,35179.83
+2022,Kalimantan Selatan,Kab. Tapin,82.1,29966.79
+2022,Kalimantan Selatan,Kab. Hulu Sungai Selatan,96.79,35330.1
+2022,Kalimantan Selatan,Kab. Hulu Sungai Tengah,104.3,38070.08
+2022,Kalimantan Selatan,Kab. Hulu Sungai Utara,92.52,33768.34
+2022,Kalimantan Selatan,Kab. Tabalong,102.76,37507.84
+2022,Kalimantan Selatan,Kab. Tanah Bumbu,166.42,60743.48
+2022,Kalimantan Selatan,Kab. Balangan,56.37,20576.25
+2022,Kalimantan Selatan,Kota Banjarmasin,467.24,170543.44
+2022,Kalimantan Selatan,Kota Banjarbaru,183.78,67079.71
+2022,Kalimantan Timur,Kab. Paser,118.63,43300.97
+2022,Kalimantan Timur,Kab. Kutai Kartanegara,313.77,114524.75
+2022,Kalimantan Timur,Kab. Berau,136.44,49801.88
+2022,Kalimantan Timur,Kab. Kutai Barat,70.24,25639.06
+2022,Kalimantan Timur,Kab. Kutai Timur,212.81,77674.37
+2022,Kalimantan Timur,Kab. Penajam Paser Utara,95.98,35033.98
+2022,Kalimantan Timur,Kab. Mahakam Ulu,15.3,5584.64
+2022,Kalimantan Timur,Kota Balikpapan,514.73,187875.03
+2022,Kalimantan Timur,Kota Samarinda,587.25,214347.89
+2022,Kalimantan Timur,Kota Bontang,104.24,38046.4
+2022,Kalimantan Utara,Kab. Bulungan,64.61,23583.79
+2022,Kalimantan Utara,Kab. Nunukan,42.68,15576.81
+2022,Kalimantan Utara,Kab. Tana Tidung,14.19,5177.89
+2022,Sulawesi Utara,Kab. Bolaang Mongondow,125.24,45712.24
+2022,Sulawesi Utara,Kab. Minahasa,174.34,63632.82
+2022,Sulawesi Utara,Kab. Kepulauan Sangihe,55.87,20393.86
+2022,Sulawesi Utara,Kab. Minahasa Selatan,94.59,34523.6
+2022,Sulawesi Utara,Kab. Minahasa Utara,118.12,43114.17
+2022,Sulawesi Utara,Kab. Minahasa Tenggara,46.14,16840.95
+2022,Sulawesi Utara,Kab. Bolaang Mongondow Utara,34.66,12651.86
+2022,Sulawesi Utara,Kab. Kep. Siau Tagulandang Biaro,29.52,10776.55
+2022,Sulawesi Utara,Kab. Bolaang Mongondow Timur,36.92,13476.24
+2022,Sulawesi Utara,Kab. Bolaang Mongondow Selatan,28.91,10553.46
+2022,Sulawesi Utara,Kota Manado,291.07,106241.06
+2022,Sulawesi Utara,Kota Bitung,159.06,58055.22
+2022,Sulawesi Utara,Kota Tomohon,50.71,18510.43
+2022,Sulawesi Utara,Kota Kotamobagu,86.2,31463.8
+2022,Sulawesi Tengah,Kab. Banggai,188.4,68767.46
+2022,Sulawesi Tengah,Kab. Donggala,121.19,44232.89
+2022,Sulawesi Tengah,Kab. Morowali,83.96,30643.58
+2022,Sulawesi Tengah,Kab. Banggai Kepulauan,60.07,21925.92
+2022,Sulawesi Tengah,Kab. Parigi Moutong,226.25,82582.53
+2022,Sulawesi Tengah,Kab. Sigi,128.79,47008.35
+2022,Sulawesi Tengah,Kab. Banggai Laut,37.12,13549.9
+2022,Sulawesi Tengah,Kab. Morowali Utara,61.12,22308.8
+2022,Sulawesi Tengah,Kota Palu,202.94,74073.65
+2022,Sulawesi Selatan,Kab. Kepulauan Selayar,55.19,20144.2
+2022,Sulawesi Selatan,Kab. Bulukumba,178.92,65304.63
+2022,Sulawesi Selatan,Kab. Bantaeng,80.99,29562.37
+2022,Sulawesi Selatan,Kab. Jeneponto,162.2,59204.17
+2022,Sulawesi Selatan,Kab. Sinjai,107.73,39319.84
+2022,Sulawesi Selatan,Kab. Bone,405.8,148115.18
+2022,Sulawesi Selatan,Kab. Maros,161.51,58951
+2022,Sulawesi Selatan,Kab. Pangkajene Kepulauan,141.18,51530.55
+2022,Sulawesi Selatan,Kab. Barru,76.21,27817.23
+2022,Sulawesi Selatan,Kab. Soppeng,94.23,34393.8
+2022,Sulawesi Selatan,Kab. Wajo,151.86,55428.46
+2022,Sulawesi Selatan,Kab. Sidenreng Rappang,129.28,47186.32
+2022,Sulawesi Selatan,Kab. Pinrang,180.44,65861.77
+2022,Sulawesi Selatan,Kab. Enrekang,114.36,41740.67
+2022,Sulawesi Selatan,Kab. Tana Toraja,116.42,42492.72
+2022,Sulawesi Selatan,Kab. Luwu Timur,120.2,43874.61
+2022,Sulawesi Selatan,Kab. Toraja Utara,158.49,57847.76
+2022,Sulawesi Selatan,Kota Makassar,1002.53,365924.29
+2022,Sulawesi Selatan,Kota Parepare,77.78,28388.97
+2022,Sulawesi Selatan,Kota Palopo,93.67,34187.91
+2022,Sulawesi Tenggara,Kab. Kolaka,120.61,44021.6
+2022,Sulawesi Tenggara,Kab. Muna,92.98,33937.55
+2022,Sulawesi Tenggara,Kab. Wakatobi,80.7,29455.57
+2022,Sulawesi Tenggara,Kab. Kolaka Utara,55.73,20340.57
+2022,Sulawesi Tenggara,Kab. Buton Selatan,21.99,8026.71
+2022,Sulawesi Tenggara,Kota Kendari,269.8,98476.88
+2022,Sulawesi Tenggara,Kota Bau Bau,81.98,29923.25
+2022,Gorontalo,Kab. Gorontalo,158.25,57762.71
+2022,Gorontalo,Kab. Bone Bolango,49.86,18198.9
+2022,Gorontalo,Kab. Pohuwato,59.08,21562.59
+2022,Gorontalo,Kota Gorontalo,141.5,51646.51
+2022,Sulawesi Barat,Kab. Majene,70.96,25898.94
+2022,Sulawesi Barat,Kab. Mamuju Tengah,54.95,20057.48
+2022,Maluku,Kab. Maluku Tengah,169.89,62010.58
+2022,Maluku,Kab. Buru Selatan,31.11,11355.3
+2022,Maluku Utara,Kab. Halmahera Utara,138.35,50497.02
+2022,Maluku Utara,Kota Tidore Kepulauan,46.31,16904.46
+2022,Papua,Kab. Jayapura,85.92,31360.25
+2022,Papua,Kab. Kepulauan Yapen,45.97,16779.78
+2022,Papua,Kab. Biak Numfor,58.72,21434.55
+2022,Papua,Kab. Sarmi,16.74,6109.95
+2022,Papua,Kab. Keerom,26.35,9619.5
+2022,Papua,Kab. Waropen,14.48,5285.2
+2022,Papua,Kota Jayapura,217.89,79528.32
+2022,Papua Barat,Kab. Manokwari,163.36,59627.83
+2022,Papua Barat,Kab. Teluk Wondama,18.35,6697.17
+2022,Papua Barat,Kab. Kaimana,25.45,9290.42
+2022,Papua Selatan,Kab. Merauke,92.94,33924.12
+2022,Papua Selatan,Kab. Boven Digoel,26.08,9518.18
+2022,Papua Selatan,Kab. Asmat,45.41,16574.5
+2022,Papua Tengah,Kab. Mimika,158.2,57742.09
+2022,Papua Barat Daya,Kab. Sorong,49.76,18162.69
+2023,Aceh,Kab. Aceh Selatan,96.78,35323.53
+2023,Aceh,Kab. Aceh Tenggara,114.15,41666.21
+2023,Aceh,Kab. Aceh Barat,100.86,36813.72
+2023,Aceh,Kab. Aceh Besar,148.09,54053.29
+2023,Aceh,Kab. Simeulue,45.14,16476.21
+2023,Aceh,Kab. Aceh Singkil,52.31,19094.9
+2023,Aceh,Kab. Aceh Barat Daya,77.67,28348.09
+2023,Aceh,Kab. Gayo Lues,41.28,15068.51
+2023,Aceh,Kab. Aceh Jaya,48.01,17525.11
+2023,Aceh,Kab. Nagan Raya,69.73,25451.6
+2023,Aceh,Kab. Aceh Tamiang,122.09,44561.68
+2023,Aceh,Kab. Bener Meriah,67.63,24685.68
+2023,Aceh,Kota Banda Aceh,255.81,93370.54
+2023,Aceh,Kota Sabang,17.28,6308.37
+2023,Aceh,Kota Langsa,96.32,35154.98
+2023,Aceh,Kota Subulussalam,57.07,20831.06
+2023,Sumatera Utara,Kab. Nias,58.76,21446.67
+2023,Sumatera Utara,Kab. Langkat,521.55,190367.39
+2023,Sumatera Utara,Kab. Simalungun,510.81,186444.74
+2023,Sumatera Utara,Kab. Toba,96.07,35067.21
+2023,Sumatera Utara,Kota Pematang Siantar,160.73,58664.63
+2023,Sumatera Barat,Kab. Pesisir Selatan,154.96,56558.72
+2023,Sumatera Barat,Kab. Solok,162.28,59233.95
+2023,Sumatera Barat,Kab. Tanah Datar,129.82,47382.56
+2023,Sumatera Barat,Kab. Padang Pariaman,218.06,79593.54
+2023,Sumatera Barat,Kab. Agam,219.63,80163.78
+2023,Sumatera Barat,Kab. Lima Puluh Kota,156.07,56964.67
+2023,Sumatera Barat,Kab. Pasaman,122.97,44884.05
+2023,Sumatera Barat,Kab. Solok Selatan,75.46,27542.75
+2023,Sumatera Barat,Kota Padang,647.39,236296.62
+2023,Sumatera Barat,Kota Solok,55.79,20364.12
+2023,Sumatera Barat,Kota Sawahlunto,18.98,6925.99
+2023,Sumatera Barat,Kota Payakumbuh,93.26,34041.59
+2023,Riau,Kab. Bengkalis,260.59,95114.96
+2023,Riau,Kab. Siak,191.02,69722.3
+2023,Riau,Kab. Kuantan Singingi,123.13,44940.66
+2023,Riau,Kota Pekanbaru,1011.01,369019.82
+2023,Riau,Kota Dumai,170.16,62106.58
+2023,Jambi,Kab. Bungo,161.68,59014.11
+2023,Sumatera Selatan,Kab. Muara Enim,232.8,84971.42
+2023,Sumatera Selatan,Kab. Lahat,268.64,98053.34
+2023,Sumatera Selatan,Kab. Musi Banyuasin,253.25,92436.1
+2023,Sumatera Selatan,Kota Pagar Alam,73.92,26980.07
+2023,Sumatera Selatan,Kota Prabumulih,99.74,36405.83
+2023,Bengkulu,Kab. Rejang Lebong,198.54,72465.68
+2023,Bengkulu,Kab. Seluma,106.89,39013.94
+2023,Bengkulu,Kab. Lebong,83.61,30516.44
+2023,Lampung,Kab. Lampung Tengah,690,251850.93
+2023,Lampung,Kab. Tanggamus,369.64,134920.35
+2023,Lampung,Kab. Way Kanan,193.55,70647.06
+2023,Lampung,Kab. Pringsewu,163.37,59628.59
+2023,Lampung,Kab. Tulang Bawang Barat,115.85,42284.52
+2023,Lampung,Kab. Pesisir Barat,65.93,24063.14
+2023,Lampung,Kota Bandar Lampung,786.46,287058.27
+2023,Kepulauan Bangka Belitung,Kab. Belitung,75.08,27405.95
+2023,Kepulauan Bangka Belitung,Kab. Bangka Selatan,84.14,30710.22
+2023,Kepulauan Bangka Belitung,Kab. Bangka Tengah,83.85,30604.52
+2023,Kepulauan Bangka Belitung,Kab. Belitung Timur,52.52,19169.36
+2023,Kepulauan Riau,Kab. Bintan,55.92,20409.89
+2023,Kepulauan Riau,Kab. Karimun,195.68,71422.21
+2023,Kepulauan Riau,Kab. Natuna,34.87,12725.8
+2023,Kepulauan Riau,Kab. Kepulauan Anambas,13.36,4876.8
+2023,Kepulauan Riau,Kota Batam,1159.05,423054.13
+2023,Kepulauan Riau,Kota Tanjung Pinang,152.65,55715.79
+2023,DKI Jakarta,Kab. Adm. Kep. Seribu,18.18,6634.27
+2023,DKI Jakarta,Kota Adm. Jakarta Pusat,852.72,311242.8
+2023,DKI Jakarta,Kota Adm. Jakarta Utara,1382.36,504560.46
+2023,DKI Jakarta,Kota Adm. Jakarta Barat,2049.69,748135.3
+2023,DKI Jakarta,Kota Adm. Jakarta Selatan,1971.13,719463.79
+2023,DKI Jakarta,Kota Adm. Jakarta Timur,2333.19,851613.56
+2023,Jawa Barat,Kab. Garut,1121.82,409465.37
+2023,Jawa Barat,Kab. Ciamis,499.11,182174.42
+2023,Jawa Barat,Kab. Sumedang,478.92,174806.09
+2023,Jawa Barat,Kab. Karawang,1054.13,384758.32
+2023,Jawa Barat,Kab. Bekasi,2219,809935
+2023,Jawa Barat,Kota Bogor,779.81,284631.6
+2023,Jawa Barat,Kota Sukabumi,184.41,67308.3
+2023,Jawa Barat,Kota Tasikmalaya,323.17,117955.24
+2023,Jawa Barat,Kota Banjar,86.64,31624.18
+2023,Jawa Tengah,Kab. Banyumas,541.8,197758.42
+2023,Jawa Tengah,Kab. Purworejo,321.73,117432.91
+2023,Jawa Tengah,Kab. Wonosobo,363.87,132810.94
+2023,Jawa Tengah,Kab. Magelang,662.38,241767.97
+2023,Jawa Tengah,Kab. Klaten,649.45,237050.7
+2023,Jawa Tengah,Kab. Wonogiri,350.68,127999.02
+2023,Jawa Tengah,Kab. Sragen,595.35,217301.22
+2023,Jawa Tengah,Kab. Grobogan,863.15,315050.32
+2023,Jawa Tengah,Kab. Blora,387.49,141433.02
+2023,Jawa Tengah,Kab. Rembang,254.16,92770.06
+2023,Jawa Tengah,Kab. Pati,687.93,251092.63
+2023,Jawa Tengah,Kab. Jepara,423.48,154571.51
+2023,Jawa Tengah,Kab. Semarang,533.16,194601.94
+2023,Jawa Tengah,Kab. Temanggung,403.72,147357.8
+2023,Jawa Tengah,Kab. Tegal,604.09,220493.69
+2023,Jawa Tengah,Kab. Brebes,1005.31,366937.6
+2023,Jawa Tengah,Kota Magelang,80.55,29400.33
+2023,Jawa Tengah,Kota Surakarta,419.11,152974.67
+2023,Jawa Tengah,Kota Salatiga,116.43,42496.23
+2023,Jawa Tengah,Kota Semarang,1182.29,431534.65
+2023,D.I. Yogyakarta,Kab. Kulon Progo,219.27,80033.9
+2023,D.I. Yogyakarta,Kab. Gunungkidul,385.15,140580.21
+2023,D.I. Yogyakarta,Kab. Sleman,601.79,219653.64
+2023,Jawa Timur,Kab. Pacitan,288.62,105345.64
+2023,Jawa Timur,Kab. Ponorogo,385.7,140780.94
+2023,Jawa Timur,Kab. Trenggalek,305.48,111498.74
+2023,Jawa Timur,Kab. Tulungagung,558.98,204028.8
+2023,Jawa Timur,Kab. Kediri,662.41,241778.92
+2023,Jawa Timur,Kab. Malang,966.92,352927.26
+2023,Jawa Timur,Kab. Lumajang,535,195275.12
+2023,Jawa Timur,Kab. Banyuwangi,836.47,305312.85
+2023,Jawa Timur,Kab. Situbondo,252.41,92130.84
+2023,Jawa Timur,Kab. Probolinggo,463.99,169354.89
+2023,Jawa Timur,Kab. Jombang,530.37,193583.44
+2023,Jawa Timur,Kab. Nganjuk,446.81,163086.82
+2023,Jawa Timur,Kab. Madiun,299.04,109147.99
+2023,Jawa Timur,Kab. Magetan,275.96,100725.11
+2023,Jawa Timur,Kab. Bojonegoro,366.14,133639.42
+2023,Jawa Timur,Kab. Tuban,508.01,185422.94
+2023,Jawa Timur,Kab. Gresik,395.17,144238.33
+2023,Jawa Timur,Kab. Bangkalan,417.15,152259.02
+2023,Jawa Timur,Kab. Pamekasan,277.14,101156.1
+2023,Jawa Timur,Kab. Sumenep,367.44,134116.66
+2023,Jawa Timur,Kota Kediri,173.87,63461.92
+2023,Jawa Timur,Kota Blitar,76.68,27988.2
+2023,Jawa Timur,Kota Malang,778.34,284095.41
+2023,Jawa Timur,Kota Probolinggo,97.82,35705.61
+2023,Jawa Timur,Kota Pasuruan,147.48,53830.17
+2023,Jawa Timur,Kota Surabaya,1800.05,657016.64
+2023,Jawa Timur,Kota Batu,142.64,52062.68
+2023,Banten,Kab. Pandeglang,509.07,185812.3
+2023,Banten,Kab. Lebak,597.99,218266.5
+2023,Banten,Kab. Serang,1175.24,428962.78
+2023,Banten,Kota Cilegon,278.83,101772.8
+2023,Banten,Kota Serang,601.38,219503.03
+2023,Banten,Kota Tangerang Selatan,1011.45,369177.5
+2023,Bali,Kab. Jembrana,163.74,59765.28
+2023,Bali,Kab. Tabanan,232.67,84922.73
+2023,Bali,Kab. Badung,534.86,195222.49
+2023,Bali,Kab. Gianyar,538.9,196698.5
+2023,Bali,Kab. Bangli,112.86,41195.36
+2023,Bali,Kab. Buleleng,412.5,150562.5
+2023,Bali,Kota Denpasar,980.78,357984.7
+2023,Nusa Tenggara Barat,Kota Mataram,271.69,99165.83
+2023,Nusa Tenggara Timur,Kota Kupang,234.46,85576.62
+2023,Kalimantan Barat,Kab. Sambas,322.09,117563.03
+2023,Kalimantan Barat,Kab. Mempawah,84.3,30769.28
+2023,Kalimantan Barat,Kab. Sanggau,249.93,91225.36
+2023,Kalimantan Barat,Kab. Kapuas Hulu,134.42,49063.3
+2023,Kalimantan Barat,Kota Pontianak,441.88,161286.82
+2023,Kalimantan Barat,Kota Singkawang,95.38,34813.5
+2023,Kalimantan Tengah,Kab. Kotawaringin Barat,137.47,50175.64
+2023,Kalimantan Tengah,Kab. Kotawaringin Timur,237.97,86858.62
+2023,Kalimantan Tengah,Kab. Kapuas,213.72,78008.17
+2023,Kalimantan Tengah,Kab. Barito Selatan,66.96,24439.67
+2023,Kalimantan Tengah,Kab. Barito Utara,65.3,23833.48
+2023,Kalimantan Tengah,Kab. Seruyan,83.04,30308.14
+2023,Kalimantan Tengah,Kab. Gunung Mas,98.38,35908.88
+2023,Kalimantan Tengah,Kab. Pulang Pisau,68.11,24860.33
+2023,Kalimantan Tengah,Kab. Murung Raya,57.08,20835.48
+2023,Kalimantan Tengah,Kab. Barito Timur,46.16,16849.28
+2023,Kalimantan Tengah,Kota Palangkaraya,156.01,56945.11
+2023,Kalimantan Selatan,Kab. Tanah Laut,144.42,52712.42
+2023,Kalimantan Selatan,Kab. Kotabaru,183.79,67082.22
+2023,Kalimantan Selatan,Kab. Banjar,362.56,132335.31
+2023,Kalimantan Selatan,Kab. Barito Kuala,98.8,36061.31
+2023,Kalimantan Selatan,Kab. Tapin,83.74,30566.12
+2023,Kalimantan Selatan,Kab. Hulu Sungai Tengah,105.22,38406.91
+2023,Kalimantan Selatan,Kab. Tabalong,117.61,42926.74
+2023,Kalimantan Selatan,Kab. Tanah Bumbu,171.87,62732.73
+2023,Kalimantan Selatan,Kab. Balangan,58.02,21178.29
+2023,Kalimantan Timur,Kab. Paser,121.37,44299.9
+2023,Kalimantan Timur,Kab. Berau,140.5,51282.14
+2023,Kalimantan Timur,Kab. Kutai Barat,70.8,25843.02
+2023,Kalimantan Timur,Kab. Penajam Paser Utara,98.28,35873.3
+2023,Kalimantan Timur,Kab. Mahakam Ulu,17.91,6538.11
+2023,Kalimantan Timur,Kota Balikpapan,528.87,193038.43
+2023,Kalimantan Timur,Kota Samarinda,599.45,218799.98
+2023,Kalimantan Timur,Kota Bontang,106.38,38829.46
+2023,Kalimantan Utara,Kab. Tana Tidung,14.34,5234.83
+2023,Sulawesi Utara,Kab. Minahasa,175.13,63922.63
+2023,Sulawesi Utara,Kab. Kepulauan Sangihe,65.88,24045.31
+2023,Sulawesi Utara,Kab. Minahasa Utara,120.48,43976.48
+2023,Sulawesi Utara,Kab. Minahasa Tenggara,46.92,17127.26
+2023,Sulawesi Utara,Kab. Bolaang Mongondow Utara,33.82,12343.28
+2023,Sulawesi Utara,Kab. Kep. Siau Tagulandang Biaro,28.85,10530.4
+2023,Sulawesi Utara,Kab. Bolaang Mongondow Selatan,29.06,10608.36
+2023,Sulawesi Utara,Kota Manado,291.2,106288.37
+2023,Sulawesi Utara,Kota Bitung,159.06,58055.22
+2023,Sulawesi Utara,Kota Tomohon,51.36,18747.13
+2023,Sulawesi Utara,Kota Kotamobagu,86.74,31661.05
+2023,Sulawesi Tengah,Kab. Banggai,183.11,66835.88
+2023,Sulawesi Tengah,Kab. Buol,60.21,21976.65
+2023,Sulawesi Tengah,Kab. Morowali,88.12,32164.53
+2023,Sulawesi Tengah,Kab. Banggai Kepulauan,60.84,22207.33
+2023,Sulawesi Tengah,Kab. Parigi Moutong,227.25,82947.89
+2023,Sulawesi Tengah,Kab. Sigi,131.05,47833.43
+2023,Sulawesi Tengah,Kab. Banggai Laut,37.46,13672.9
+2023,Sulawesi Tengah,Kab. Morowali Utara,72.84,26587.7
+2023,Sulawesi Tengah,Kota Palu,193.75,70717.47
+2023,Sulawesi Selatan,Kab. Kepulauan Selayar,56.35,20568.63
+2023,Sulawesi Selatan,Kab. Bulukumba,182.5,66610.75
+2023,Sulawesi Selatan,Kab. Bantaeng,83.23,30377.78
+2023,Sulawesi Selatan,Kab. Bone,407.59,148771.81
+2023,Sulawesi Selatan,Kab. Maros,164.28,59962.05
+2023,Sulawesi Selatan,Kab. Pangkajene Kepulauan,142,51830.44
+2023,Sulawesi Selatan,Kab. Barru,77.82,28403.28
+2023,Sulawesi Selatan,Kab. Soppeng,94.42,34463.15
+2023,Sulawesi Selatan,Kab. Sidenreng Rappang,130.97,47802.74
+2023,Sulawesi Selatan,Kab. Tana Toraja,108.39,39563.66
+2023,Sulawesi Selatan,Kab. Luwu Utara,165.29,60330.12
+2023,Sulawesi Selatan,Kab. Luwu Timur,122.21,44606.07
+2023,Sulawesi Selatan,Kota Makassar,1032.08,376707.41
+2023,Sulawesi Selatan,Kota Parepare,79.33,28956.73
+2023,Sulawesi Selatan,Kota Palopo,95.43,34833.23
+2023,Sulawesi Tenggara,Kab. Muna,94.11,34351.61
+2023,Sulawesi Tenggara,Kab. Wakatobi,82.34,30054.47
+2023,Sulawesi Tenggara,Kab. Kolaka Utara,56.46,20608.05
+2023,Sulawesi Tenggara,Kab. Konawe Utara,28.13,10265.84
+2023,Sulawesi Tenggara,Kab. Kolaka Timur,56.58,20651.85
+2023,Sulawesi Tenggara,Kota Kendari,242.25,88420.76
+2023,Gorontalo,Kota Gorontalo,142.24,51918.88
+2023,Sulawesi Barat,Kab. Majene,70.96,25898.94
+2023,Maluku,Kota Ambon,246.74,90061.2
+2023,Papua,Kab. Biak Numfor,58.72,21434.55
+2023,Papua,Kab. Keerom,26.56,9694.55
+2023,Papua,Kota Jayapura,241.87,88282.84
+2023,Papua Barat,Kab. Manokwari,180.41,65849.34
+2023,Papua Barat,Kab. Fak Fak,35.55,12976.48
+2023,Papua Barat,Kab. Kaimana,25.71,9382.69
+2023,Papua Selatan,Kab. Boven Digoel,26.08,9518.18
+2023,Papua Selatan,Kab. Asmat,46.48,16965.2
+2023,Papua Tengah,Kab. Mimika,156.51,57125.42
+2023,Papua Barat Daya,Kab. Sorong,50.38,18388.55
+2023,Papua Barat Daya,Kab. Raja Ampat,27.11,9893.4

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Waste Generation Data Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .chart-container {
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .chart-title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .navbar {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Waste Dashboard</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <!-- Add more nav items here if needed -->
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="text-center my-4">Waste Generation Data Dashboard (2018-2023)</h1>
+            </div>
+        </div>
+        <div class="row chart-container">
+            <div class="col-12">
+                <h2 class="chart-title">Total Annual Waste Generation by Province (2018-2023)</h2>
+                <img src="{{ url_for('static', filename='total_annual_waste_all_years.png') }}" class="img-fluid"
+                    alt="Total Annual Waste Generation">
+            </div>
+        </div>
+        <div class="row chart-container">
+            <div class="col-12">
+                <h2 class="chart-title">Number of Provinces by Waste Generation Category (2018-2023)</h2>
+                <img src="{{ url_for('static', filename='category_counts.png') }}" class="img-fluid"
+                    alt="Category Counts">
+            </div>
+        </div>
+        <div class="row chart-container">
+            <div class="col-12">
+                <h2 class="chart-title">Waste Generation Data Visualization for 2021</h2>
+            </div>
+            <div class="col-md-6">
+                <h3 class="chart-title">Total Annual Waste Generation by Province</h3>
+                <img src="{{ url_for('static', filename='total_annual_waste.png') }}" class="img-fluid"
+                    alt="Total Annual Waste Generation">
+            </div>
+            <div class="col-md-6">
+                <h3 class="chart-title">Average Annual Waste Generation by Province</h3>
+                <img src="{{ url_for('static', filename='average_annual_waste.png') }}" class="img-fluid"
+                    alt="Average Annual Waste Generation">
+            </div>
+        </div>
+        <div class="row chart-container">
+            <div class="col-12">
+                <h3 class="chart-title">Categorization of Average Annual Waste Generation by Province</h3>
+                <img src="{{ url_for('static', filename='categorized_annual_waste.png') }}" class="img-fluid"
+                    alt="Categorized Annual Waste Generation">
+            </div>
+        </div>
+        <div class="row chart-container">
+            <div class="col-md-6">
+                <h3>Province Producing Most Waste in 2021</h3>
+                <p>Province: {{ most_waste_province['Provinsi'] }} with {{ most_waste_province['Timbulan Sampah
+                    Tahunan(ton)'] }} tons</p>
+            </div>
+            <div class="col-md-6">
+                <h3>Province Producing Least Waste in 2021</h3>
+                <p>Province: {{ least_waste_province['Provinsi'] }} with {{ least_waste_province['Timbulan Sampah
+                    Tahunan(ton)'] }} tons</p>
+            </div>
+        </div>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
